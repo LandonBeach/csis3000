@@ -58,18 +58,18 @@
    - Repeat this process (selecting new a’s every time) until n passes the test 100 times in succession. The n you now have is very probably prime.
 1. Test the following constructors and methods of the BigInteger class:
    - Constructors: let p = a BigInteger of bitlength 512, which is probably prime. Also construct random integers a,b, and n of bitlength 512 each.
-      - Use the above to illustrate these methods:
-      - a+b
-      - the bitlength of n
-      - determine which of a and b is bigger
-      - a/b
-      - test if p is probably prime
-      - a mod n
-      - a^-1 mod n
-      - a^b mod n
-      - a*b mod n
-      - the next prime after p
-      - q = 'a probable prime of bit length 512' (not using a constructor
+   - Use the above to illustrate these methods:
+     - a+b
+     - the bitlength of n
+     - determine which of a and b is bigger
+     - a/b
+     - test if p is probably prime
+     - a mod n
+     - a^-1 mod n
+     - a^b mod n
+     - a*b mod n
+     - the next prime after p
+     - q = 'a probable prime of bit length 512' (not using a constructor
 
 
 ## Week 5
