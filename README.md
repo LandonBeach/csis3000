@@ -1,4 +1,4 @@
-# Operating Systems (CSIS 3600)
+# Advanced Data Structures and Algorithms (CSIS 3000)
 
 
 ## Week 1
