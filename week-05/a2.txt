@@ -1,0 +1,14 @@
+phi(n)+1 = 13x
+1 = 13x mod phi(n) mod 2436
+
+    - gives the inverse
+    - we have solves for x: it's 13^(-1) mod 2436
+
+    - phi(n) = phi(pq) = (p-1)(q-1) = 2436
+
+        - p = 43
+
+        - q = 59
+        - n = 2537
+
+    - 13^(-1) = 937 mod phi(n)

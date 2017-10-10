@@ -1,0 +1,4 @@
+The first one took 3,932,320,116 nanoseconds
+The second one took 39,296,500,043 nanoseconds
+The third one broke the program we can estimate an answer based on the previous two. We added an extra digit, making it at least 10 times larger.
+Therefore we can estimate that the third one will take approximately  390,296,500,043 nanoseconds to complete.
